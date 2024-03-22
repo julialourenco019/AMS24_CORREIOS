@@ -1,0 +1,6 @@
+@AMS3A_Correios_HostAddress = http://localhost:5277
+
+GET {{AMS3A_Correios_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
